@@ -24,28 +24,7 @@
 
 <h2>Usage Example</h2>
 
-<code>
-What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.  
-> 0  
-
-    _______
----'   ____)
-      (_)
-      (_)
-      ()
----.(_)
-
-Computer chose:  
-
-    _______
----'   ___)___
-          ______)
-          _______)
-         _______)
----.)
-
-You lose!
-</code>
+![Screenshot 2025-02-18 112813](https://github.com/user-attachments/assets/fb52388d-05ce-495e-9d86-403d3db3fa13)
 
 <h2>Requirements</h2>
 
